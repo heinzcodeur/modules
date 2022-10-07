@@ -1,5 +1,5 @@
 import {faireTirage} from './tirage.js'
-import {afficherResultat} from './affichage.js'
+import {afficherResultat} from './Affichage.js'
 
 const tab =[false,false,false,false,false];
 
